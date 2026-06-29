@@ -1,0 +1,18 @@
+Starting Nmap 7.99 ( https://nmap.org ) at 2026-06-29 16:10 +0530
+Nmap scan report for 10.95.138.199
+Host is up (0.0052s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT     STATE SERVICE
+53/tcp   open  domain
+7000/tcp open  afs3-fileserver
+MAC Address: 5E:25:3F:92:40:96 (Unknown)
+
+Nmap scan report for 10.95.138.206
+Host is up (0.00066s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT    STATE SERVICE
+135/tcp open  msrpc
+139/tcp open  netbios-ssn
+445/tcp open  microsoft-ds
+
+Nmap done: 256 IP addresses (2 hosts up) scanned in 7.95 seconds
